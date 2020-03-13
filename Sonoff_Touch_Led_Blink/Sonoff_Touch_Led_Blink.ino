@@ -1,7 +1,7 @@
 /*
- * Simple test program for Sonoff Basic.
- * Allows to turn on the integrated led whenever the user press
- * the integrated button
+ * Simple test program for Sonoff Touch (1 chennel).
+ * Will blink the status led and the Relay Will be changing its
+ * status at the same frequency
 */
 
 const byte OUTPUT_LED = 13;
